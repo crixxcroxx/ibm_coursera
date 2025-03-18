@@ -1,0 +1,7 @@
+data/
+.fashion/
+
+.vscode
+__pycache__
+
+Pipfile.lock
